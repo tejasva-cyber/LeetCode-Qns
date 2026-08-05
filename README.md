@@ -22,5 +22,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
