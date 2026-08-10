@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -32,6 +33,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
