@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
