@@ -135,4 +135,20 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
