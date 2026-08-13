@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
@@ -183,6 +185,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
