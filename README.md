@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 ## Binary Search Tree
 |  |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -171,4 +174,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
