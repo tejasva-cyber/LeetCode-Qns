@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
