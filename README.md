@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
@@ -66,6 +67,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
@@ -73,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -202,4 +206,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
