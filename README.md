@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0027-remove-element) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -198,5 +200,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
