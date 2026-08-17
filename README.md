@@ -173,6 +173,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
