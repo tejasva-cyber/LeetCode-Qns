@@ -131,6 +131,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
@@ -174,6 +175,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
@@ -256,6 +258,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
