@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 ## Geometry
 |  |
@@ -265,4 +268,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
