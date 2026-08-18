@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
@@ -200,6 +202,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 ## Quicksort
@@ -280,4 +284,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
