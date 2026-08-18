@@ -45,6 +45,7 @@
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
@@ -189,10 +190,12 @@
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
 ## Tree
 |  |
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
