@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 ## Doubly-Linked List
