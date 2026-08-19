@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
@@ -302,6 +303,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0090-subsets-ii) |
