@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -255,6 +257,7 @@
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 ## Quicksort
 |  |
@@ -294,6 +297,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -302,4 +306,5 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
