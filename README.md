@@ -118,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
@@ -342,4 +344,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
