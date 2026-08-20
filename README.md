@@ -82,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0047-permutations-ii) |
