@@ -55,6 +55,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
@@ -96,6 +97,7 @@
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
@@ -415,4 +418,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
