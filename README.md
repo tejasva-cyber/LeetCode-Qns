@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
@@ -330,6 +332,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
