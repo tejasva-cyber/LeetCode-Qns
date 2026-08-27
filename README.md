@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
@@ -457,4 +459,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
