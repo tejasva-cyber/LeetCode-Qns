@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 ## Linked List
