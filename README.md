@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -210,6 +212,7 @@
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
