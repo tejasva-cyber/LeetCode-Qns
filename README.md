@@ -42,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -218,6 +219,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
@@ -229,6 +231,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -388,6 +391,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
 | ------- |
@@ -475,4 +479,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
