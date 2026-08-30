@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
