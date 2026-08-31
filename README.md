@@ -62,6 +62,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
@@ -108,6 +109,7 @@
 | [0006-zigzag-conversion](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
@@ -218,6 +220,7 @@
 | [0002-add-two-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
