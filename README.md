@@ -132,6 +132,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
@@ -176,6 +177,7 @@
 | [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
@@ -412,6 +414,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
@@ -435,6 +438,7 @@
 | [0010-regular-expression-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 ## Range Minimum/Maximum Query
