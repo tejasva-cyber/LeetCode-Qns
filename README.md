@@ -19,6 +19,7 @@
 | [0037-sudoku-solver](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0047-permutations-ii) |
@@ -74,6 +75,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
