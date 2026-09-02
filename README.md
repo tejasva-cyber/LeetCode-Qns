@@ -249,6 +249,7 @@
 | [0013-roman-to-integer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -439,6 +440,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 ## Range Minimum/Maximum Query
