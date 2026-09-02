@@ -21,6 +21,7 @@
 | [0040-combination-sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
@@ -178,6 +179,7 @@
 | [0032-longest-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
@@ -416,6 +418,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
