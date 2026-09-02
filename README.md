@@ -32,6 +32,7 @@
 | [0055-jump-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
@@ -406,6 +407,7 @@
 | [0037-sudoku-solver](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
@@ -548,6 +550,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
 ## Queue
 |  |
 | ------- |
