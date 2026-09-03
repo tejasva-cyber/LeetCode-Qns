@@ -34,6 +34,7 @@
 | [0057-insert-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
@@ -262,6 +263,7 @@
 | [0050-powx-n](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
