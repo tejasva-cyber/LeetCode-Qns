@@ -260,6 +260,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 ## Math
@@ -277,6 +278,7 @@
 | [0062-unique-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -500,6 +502,7 @@
 | [0077-combinations](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
