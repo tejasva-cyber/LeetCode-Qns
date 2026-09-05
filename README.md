@@ -147,6 +147,7 @@
 | [0071-simplify-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
@@ -200,6 +201,7 @@
 | [0063-unique-paths-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
