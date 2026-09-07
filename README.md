@@ -374,6 +374,7 @@
 | [0100-same-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -411,6 +412,7 @@
 | [0100-same-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -418,6 +420,7 @@
 | [0100-same-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
