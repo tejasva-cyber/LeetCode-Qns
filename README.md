@@ -205,6 +205,7 @@
 | [0087-scramble-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
@@ -282,6 +283,7 @@
 | [0066-plus-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -364,6 +366,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
@@ -386,12 +389,14 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
