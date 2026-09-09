@@ -52,6 +52,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -432,6 +433,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
@@ -491,6 +493,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
@@ -525,6 +528,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 ## Matrix
@@ -538,6 +542,7 @@
 | [0063-unique-paths-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
