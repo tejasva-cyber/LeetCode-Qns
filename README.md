@@ -234,6 +234,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0155-min-stack) |
@@ -358,6 +359,7 @@
 | [0086-partition-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
@@ -391,6 +393,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -406,6 +409,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
@@ -445,6 +449,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
