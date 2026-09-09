@@ -47,6 +47,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
@@ -217,6 +218,7 @@
 | [0115-distinct-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
