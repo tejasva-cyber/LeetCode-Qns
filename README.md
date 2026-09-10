@@ -166,6 +166,7 @@
 | [0126-word-ladder-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
@@ -228,6 +229,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0198-house-robber) |
