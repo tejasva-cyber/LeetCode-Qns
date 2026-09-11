@@ -107,6 +107,7 @@
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
@@ -203,6 +204,7 @@
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
@@ -389,6 +392,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
