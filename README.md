@@ -59,6 +59,7 @@
 | [0137-single-number-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
@@ -326,6 +328,7 @@
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -602,6 +605,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -757,4 +761,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0037-sudoku-solver) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
