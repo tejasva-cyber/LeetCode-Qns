@@ -112,6 +112,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
@@ -214,6 +215,7 @@
 | [0143-reorder-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -410,6 +412,7 @@
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
