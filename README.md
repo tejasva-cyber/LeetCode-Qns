@@ -66,6 +66,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
@@ -223,6 +224,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -396,6 +398,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
