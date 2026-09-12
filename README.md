@@ -115,6 +115,7 @@
 | [0146-lru-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
@@ -186,6 +187,7 @@
 | [0140-word-break-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
@@ -340,6 +342,7 @@
 | [0096-unique-binary-search-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
