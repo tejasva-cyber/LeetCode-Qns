@@ -65,6 +65,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0200-number-of-islands) |
@@ -137,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
@@ -371,6 +373,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -778,4 +781,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
