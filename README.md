@@ -349,6 +349,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
