@@ -814,4 +814,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
