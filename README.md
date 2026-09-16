@@ -318,6 +318,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -340,6 +341,7 @@
 | [0136-single-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
