@@ -204,6 +204,7 @@
 | [0205-isomorphic-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -791,6 +792,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -808,15 +810,18 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -862,10 +867,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
