@@ -83,6 +83,7 @@
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
@@ -155,6 +156,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -394,6 +396,7 @@
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -417,6 +420,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -915,4 +919,5 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
