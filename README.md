@@ -81,6 +81,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
@@ -153,6 +154,7 @@
 | [0179-largest-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -325,6 +327,7 @@
 | [0190-reverse-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -404,6 +407,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -895,4 +899,20 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
