@@ -383,6 +383,7 @@
 | [0189-rotate-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -685,6 +686,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
