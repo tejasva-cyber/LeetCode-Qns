@@ -536,6 +536,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -563,6 +564,7 @@
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -577,6 +579,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -608,6 +611,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -958,4 +962,12 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
