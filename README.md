@@ -93,6 +93,7 @@
 | [0260-single-number-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -491,6 +492,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
