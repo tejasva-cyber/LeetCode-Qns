@@ -218,6 +218,7 @@
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -294,6 +295,7 @@
 | [0213-house-robber-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
@@ -331,6 +333,7 @@
 | [0020-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 | [0227-basic-calculator-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -741,6 +745,7 @@
 | [0231-power-of-two](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -799,6 +804,7 @@
 | [0070-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
