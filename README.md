@@ -92,6 +92,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -169,6 +170,7 @@
 | [0229-majority-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1006,4 +1008,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
