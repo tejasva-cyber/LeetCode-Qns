@@ -220,6 +220,7 @@
 | [0227-basic-calculator-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -545,6 +546,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -573,6 +575,7 @@
 | [0210-course-schedule-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -620,6 +623,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -776,6 +780,7 @@
 | [0140-word-break-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 ## Doubly-Linked List
 |  |
 | ------- |
