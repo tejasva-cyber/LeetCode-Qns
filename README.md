@@ -411,6 +411,7 @@
 | [0231-power-of-two](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -864,6 +865,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0258-add-digits) |
 ## Queue
 |  |
 | ------- |
@@ -949,6 +951,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
