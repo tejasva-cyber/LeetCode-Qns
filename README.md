@@ -493,6 +493,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -1014,4 +1015,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
