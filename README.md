@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -266,6 +267,7 @@
 | [0189-rotate-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
