@@ -230,6 +230,7 @@
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -430,6 +431,7 @@
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -806,6 +808,7 @@
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 ## Doubly-Linked List
 |  |
 | ------- |
