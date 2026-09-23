@@ -307,6 +307,7 @@
 | [0233-number-of-digit-one](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
@@ -428,6 +429,7 @@
 | [0264-ugly-number-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -667,6 +669,7 @@
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -835,11 +838,13 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 ## Longest Common Subsequence
 |  |
