@@ -95,6 +95,7 @@
 | [0274-h-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -540,6 +541,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -952,6 +954,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
