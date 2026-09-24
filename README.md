@@ -96,6 +96,7 @@
 | [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -269,6 +270,7 @@
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -396,6 +398,7 @@
 | [0231-power-of-two](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -442,6 +445,7 @@
 | [0141-linked-list-cycle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -501,6 +505,7 @@
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -950,6 +955,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 ## Iterator
 |  |
 | ------- |
