@@ -148,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
@@ -234,6 +235,7 @@
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -375,6 +377,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
