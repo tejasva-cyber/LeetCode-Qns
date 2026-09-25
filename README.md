@@ -239,6 +239,7 @@
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -831,6 +832,7 @@
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0306-additive-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
