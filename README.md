@@ -626,6 +626,7 @@
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -698,6 +699,7 @@
 | [0226-invert-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -711,6 +713,7 @@
 | [0133-clone-graph](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -719,6 +722,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
