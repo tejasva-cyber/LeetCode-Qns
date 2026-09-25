@@ -102,6 +102,7 @@
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
@@ -324,6 +325,7 @@
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -449,6 +451,7 @@
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
