@@ -97,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -551,6 +553,7 @@
 | [0225-implement-stack-using-queues](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
