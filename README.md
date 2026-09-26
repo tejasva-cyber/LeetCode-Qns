@@ -459,6 +459,7 @@
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1089,4 +1090,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
