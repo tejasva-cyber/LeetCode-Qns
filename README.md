@@ -108,6 +108,7 @@
 | [0321-create-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
@@ -392,6 +393,7 @@
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -539,6 +541,7 @@
 | [0278-first-bad-version](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -940,6 +943,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -1062,12 +1066,14 @@
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1078,6 +1084,7 @@
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1102,6 +1109,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 ## Brainteaser
 |  |
 | ------- |
