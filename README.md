@@ -466,6 +466,7 @@
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -832,6 +833,7 @@
 | [0234-palindrome-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
