@@ -112,6 +112,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
@@ -817,6 +818,7 @@
 | [0321-create-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
@@ -1148,4 +1150,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
