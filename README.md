@@ -113,6 +113,7 @@
 | [0330-patching-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
@@ -478,6 +479,7 @@
 | [0313-super-ugly-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -835,6 +837,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
