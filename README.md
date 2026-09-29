@@ -350,6 +350,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -489,6 +490,7 @@
 | [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
