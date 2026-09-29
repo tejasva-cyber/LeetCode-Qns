@@ -380,6 +380,7 @@
 | [0316-remove-duplicate-letters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -605,6 +606,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -641,6 +643,7 @@
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -674,6 +677,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -1002,6 +1006,7 @@
 | [0225-implement-stack-using-queues](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1053,6 +1058,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
