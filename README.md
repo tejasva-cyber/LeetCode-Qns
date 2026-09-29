@@ -444,6 +444,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -487,6 +488,7 @@
 | [0319-bulb-switcher](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -876,6 +878,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
