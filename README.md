@@ -368,6 +368,7 @@
 | [0338-counting-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -508,6 +509,7 @@
 | [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -941,6 +943,7 @@
 | [0282-expression-add-operators](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
 ## Doubly-Linked List
 |  |
 | ------- |
