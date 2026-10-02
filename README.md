@@ -119,6 +119,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -538,6 +539,7 @@
 | [0238-product-of-array-except-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -589,6 +591,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -843,6 +846,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -1164,6 +1168,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Binary Lifting
 |  |
 | ------- |
