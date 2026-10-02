@@ -511,6 +511,7 @@
 | [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -712,6 +713,7 @@
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -789,6 +791,7 @@
 | [0310-minimum-height-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
@@ -1078,10 +1081,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1223,4 +1228,12 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
