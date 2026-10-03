@@ -434,6 +434,7 @@
 | [0324-wiggle-sort-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -519,6 +520,7 @@
 | [0367-valid-perfect-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1244,4 +1246,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
