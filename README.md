@@ -605,6 +605,7 @@
 | [0354-russian-doll-envelopes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -1202,6 +1203,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0374-guess-number-higher-or-lower) |
 ## Sqrt Decomposition
 |  |
 | ------- |
