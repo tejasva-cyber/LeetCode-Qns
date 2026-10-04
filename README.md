@@ -374,6 +374,7 @@
 | [0354-russian-doll-envelopes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -522,6 +523,7 @@
 | [0368-largest-divisible-subset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1258,4 +1260,12 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
