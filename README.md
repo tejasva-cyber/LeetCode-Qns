@@ -126,6 +126,7 @@
 | [0377-combination-sum-iv](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -182,6 +183,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -533,6 +535,7 @@
 | [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -669,6 +672,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1286,4 +1290,5 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
