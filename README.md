@@ -756,6 +756,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -1008,6 +1009,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
 ## Algorithm X
 |  |
 | ------- |
