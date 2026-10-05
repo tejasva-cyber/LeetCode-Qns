@@ -292,6 +292,7 @@
 | [0383-ransom-note](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -423,6 +424,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -760,6 +762,7 @@
 | [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
