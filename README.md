@@ -128,6 +128,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -188,6 +189,7 @@
 | [0383-ransom-note](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -554,6 +556,7 @@
 | [0382-linked-list-random-node](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -946,6 +949,7 @@
 | [0149-max-points-on-a-line](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -1224,6 +1228,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
