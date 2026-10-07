@@ -300,6 +300,7 @@
 | [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -434,6 +435,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -982,6 +984,7 @@
 | [0326-power-of-three](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0394-decode-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
