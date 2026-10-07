@@ -129,6 +129,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -502,6 +503,7 @@
 | [0342-power-of-four](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
 ## Math
 |  |
 | ------- |
