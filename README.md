@@ -130,6 +130,7 @@
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -404,6 +405,7 @@
 | [0376-wiggle-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -567,6 +569,7 @@
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
