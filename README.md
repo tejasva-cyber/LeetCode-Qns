@@ -298,6 +298,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -340,6 +341,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -397,6 +399,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
