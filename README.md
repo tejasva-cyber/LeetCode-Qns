@@ -193,6 +193,7 @@
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -572,6 +573,7 @@
 | [0390-elimination-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1343,8 +1345,10 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
