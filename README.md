@@ -309,6 +309,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -520,6 +521,7 @@
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
 | ------- |
@@ -581,6 +583,7 @@
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
