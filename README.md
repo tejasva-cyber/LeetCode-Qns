@@ -759,6 +759,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -798,6 +799,7 @@
 | [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -848,6 +850,7 @@
 | [0257-binary-tree-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -877,6 +880,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
