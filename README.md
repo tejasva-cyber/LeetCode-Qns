@@ -132,6 +132,7 @@
 | [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -411,6 +412,7 @@
 | [0392-is-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
