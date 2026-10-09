@@ -133,6 +133,7 @@
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -231,6 +232,7 @@
 | [0368-largest-divisible-subset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -1260,6 +1262,7 @@
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1267,6 +1270,7 @@
 | [0307-range-sum-query-mutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 ## Sweep Line
 |  |
 | ------- |
