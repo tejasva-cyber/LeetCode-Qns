@@ -135,6 +135,7 @@
 | [0403-frog-jump](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
@@ -419,6 +420,7 @@
 | [0396-rotate-function](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
@@ -619,6 +621,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -678,6 +681,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -980,6 +984,7 @@
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
