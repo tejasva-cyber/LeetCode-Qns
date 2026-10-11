@@ -316,6 +316,7 @@
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -591,6 +592,7 @@
 | [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1160,6 +1162,7 @@
 | [0054-spiral-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
