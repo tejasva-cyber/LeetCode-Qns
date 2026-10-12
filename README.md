@@ -141,6 +141,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
@@ -203,6 +204,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
@@ -537,6 +539,7 @@
 | [0393-utf-8-validation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -1096,6 +1099,7 @@
 | [0212-word-search-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Algorithm X
 |  |
 | ------- |
