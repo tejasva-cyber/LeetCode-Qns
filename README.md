@@ -142,6 +142,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
@@ -500,6 +501,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -791,6 +793,7 @@
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -978,6 +981,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
