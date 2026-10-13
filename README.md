@@ -144,6 +144,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -247,6 +248,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -706,6 +708,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
