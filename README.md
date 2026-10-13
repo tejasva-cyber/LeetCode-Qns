@@ -1124,6 +1124,7 @@
 | [0336-palindrome-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Algorithm X
 |  |
 | ------- |
