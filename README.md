@@ -145,6 +145,7 @@
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -212,6 +213,7 @@
 | [0432-all-oone-data-structure](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -250,6 +252,7 @@
 | [0414-third-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
