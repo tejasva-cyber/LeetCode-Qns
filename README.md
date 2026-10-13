@@ -617,6 +617,7 @@
 | [0412-fizz-buzz](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0441-arranging-coins) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -712,6 +713,7 @@
 | [0400-nth-digit](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
