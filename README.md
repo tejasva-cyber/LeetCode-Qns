@@ -209,6 +209,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -330,6 +331,7 @@
 | [0420-strong-password-checker](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -921,6 +923,7 @@
 | [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -1168,6 +1171,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 ## Merge Sort
 |  |
 | ------- |
