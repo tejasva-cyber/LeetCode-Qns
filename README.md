@@ -146,6 +146,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -449,6 +450,7 @@
 | [0413-arithmetic-slices](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
