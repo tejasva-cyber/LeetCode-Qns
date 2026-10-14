@@ -346,6 +346,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -784,6 +785,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -824,6 +826,7 @@
 | [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -867,6 +870,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -881,6 +885,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -918,6 +923,7 @@
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -951,6 +957,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
