@@ -827,6 +827,7 @@
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -886,6 +887,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -924,6 +926,7 @@
 | [0404-sum-of-left-leaves](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
