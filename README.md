@@ -359,6 +359,7 @@
 | [0443-string-compression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -1278,17 +1279,20 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
