@@ -152,6 +152,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -500,6 +501,7 @@
 | [0394-decode-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -742,6 +744,7 @@
 | [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -1079,6 +1082,7 @@
 | [0316-remove-duplicate-letters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Geometry
@@ -1387,6 +1391,7 @@
 | [0327-count-of-range-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 ## Binary Lifting
 |  |
 | ------- |
