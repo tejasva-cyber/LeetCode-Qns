@@ -584,6 +584,7 @@
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0461-hamming-distance) |
 ## Math
 |  |
 | ------- |
