@@ -364,6 +364,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -409,6 +410,7 @@
 | [0443-string-compression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -477,6 +479,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
