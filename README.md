@@ -159,6 +159,7 @@
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -277,6 +278,7 @@
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -419,6 +421,7 @@
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -778,6 +781,7 @@
 | [0436-find-right-interval](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
