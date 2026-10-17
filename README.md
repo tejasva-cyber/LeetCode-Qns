@@ -158,6 +158,7 @@
 | [0463-island-perimeter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -371,6 +372,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -489,6 +491,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -1238,6 +1241,7 @@
 | [0279-perfect-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1255,6 +1259,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 ## Shortest Path
 |  |
 | ------- |
