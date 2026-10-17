@@ -157,6 +157,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -487,6 +488,7 @@
 | [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -600,6 +602,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 ## Math
 |  |
 | ------- |
@@ -1188,6 +1191,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1538,6 +1542,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
