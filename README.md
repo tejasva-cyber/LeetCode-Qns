@@ -686,6 +686,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0479-largest-palindrome-product) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1403,6 +1404,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0479-largest-palindrome-product) |
 ## Number Theory
 |  |
 | ------- |
