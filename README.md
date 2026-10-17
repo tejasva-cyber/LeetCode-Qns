@@ -160,6 +160,7 @@
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -610,6 +611,7 @@
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 ## Math
 |  |
 | ------- |
@@ -682,6 +684,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
