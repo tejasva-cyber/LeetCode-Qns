@@ -162,6 +162,7 @@
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
