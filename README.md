@@ -171,6 +171,7 @@
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -248,6 +249,7 @@
 | [0480-sliding-window-median](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -392,6 +394,7 @@
 | [0481-magical-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
+| [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
