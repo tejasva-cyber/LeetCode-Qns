@@ -167,6 +167,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0495-teemo-attacking) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -1344,6 +1345,7 @@
 | [0258-add-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0495-teemo-attacking) |
 ## Queue
 |  |
 | ------- |
