@@ -703,6 +703,7 @@
 | [0479-largest-palindrome-product](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0492-construct-the-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
