@@ -166,6 +166,7 @@
 | [0486-predict-the-winner](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -509,6 +510,7 @@
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -1232,6 +1234,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1280,6 +1283,7 @@
 | [0322-coin-change](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1298,6 +1302,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 ## Shortest Path
 |  |
 | ------- |
