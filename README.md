@@ -169,6 +169,7 @@
 | [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -712,6 +713,7 @@
 | [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -747,6 +749,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -817,6 +820,7 @@
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -1495,6 +1499,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1589,11 +1594,13 @@
 | [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
