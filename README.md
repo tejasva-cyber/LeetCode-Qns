@@ -379,6 +379,7 @@
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
