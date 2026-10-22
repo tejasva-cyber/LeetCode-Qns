@@ -382,6 +382,7 @@
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -504,6 +505,7 @@
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -539,6 +541,7 @@
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -1038,6 +1041,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -1260,6 +1264,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 ## Knapsack Problem
 |  |
 | ------- |
