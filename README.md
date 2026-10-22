@@ -692,6 +692,7 @@
 | [0477-total-hamming-distance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -795,6 +796,7 @@
 | [0441-arranging-coins](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
