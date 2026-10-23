@@ -172,6 +172,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -295,6 +296,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -771,6 +773,7 @@
 | [0420-strong-password-checker](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -1165,6 +1168,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 ## Monotonic Stack
 |  |
 | ------- |
