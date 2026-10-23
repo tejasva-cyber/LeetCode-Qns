@@ -174,6 +174,7 @@
 | [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -298,6 +299,7 @@
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -778,6 +780,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
