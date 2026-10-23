@@ -173,6 +173,7 @@
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -558,6 +559,7 @@
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -1180,6 +1182,7 @@
 | [0402-remove-k-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Geometry
