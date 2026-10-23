@@ -726,6 +726,7 @@
 | [0492-construct-the-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
