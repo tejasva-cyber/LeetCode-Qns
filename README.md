@@ -175,6 +175,7 @@
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -1197,6 +1198,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0517-super-washing-machines) |
 ## Monotonic Stack
 |  |
 | ------- |
