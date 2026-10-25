@@ -408,6 +408,7 @@
 | [0514-freedom-trail](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
