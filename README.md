@@ -180,6 +180,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -262,6 +263,7 @@
 | [0519-random-flip-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -790,6 +792,7 @@
 | [0410-split-array-largest-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
