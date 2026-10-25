@@ -177,6 +177,7 @@
 | [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -257,6 +258,7 @@
 | [0500-keyboard-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -304,6 +306,7 @@
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -409,6 +412,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -457,6 +461,7 @@
 | [0466-count-the-repetitions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
