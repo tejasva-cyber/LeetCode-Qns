@@ -428,6 +428,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -767,6 +768,7 @@
 | [0519-random-flip-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
+| [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1450,6 +1452,7 @@
 | [0415-add-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 ## Queue
 |  |
 | ------- |
