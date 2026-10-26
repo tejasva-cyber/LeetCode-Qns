@@ -182,6 +182,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -758,6 +759,7 @@
 | [0509-fibonacci-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -796,6 +798,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -869,6 +872,7 @@
 | [0483-smallest-good-base](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
@@ -1674,6 +1678,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
