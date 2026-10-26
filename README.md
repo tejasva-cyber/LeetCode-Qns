@@ -183,6 +183,7 @@
 | [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
+| [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
@@ -1029,6 +1030,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1128,6 +1130,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
@@ -1194,6 +1197,7 @@
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
