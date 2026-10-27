@@ -571,6 +571,7 @@
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0552-student-attendance-record-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
