@@ -189,6 +189,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -572,6 +573,7 @@
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -780,6 +782,7 @@
 | [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
