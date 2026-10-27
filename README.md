@@ -999,6 +999,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1053,6 +1054,7 @@
 | [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1117,6 +1119,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1668,6 +1671,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
