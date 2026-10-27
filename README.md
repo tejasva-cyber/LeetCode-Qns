@@ -188,6 +188,7 @@
 | [0539-minimum-time-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -568,6 +569,7 @@
 | [0518-coin-change-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -1395,6 +1397,7 @@
 | [0464-can-i-win](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 ## Knapsack Problem
 |  |
 | ------- |
