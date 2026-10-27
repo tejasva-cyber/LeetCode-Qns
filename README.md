@@ -435,6 +435,7 @@
 | [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
