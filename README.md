@@ -990,6 +990,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1043,6 +1044,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1061,6 +1063,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1105,6 +1108,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
