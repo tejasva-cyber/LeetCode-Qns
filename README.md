@@ -192,6 +192,7 @@
 | [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1081,6 +1082,7 @@
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
