@@ -1020,6 +1020,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1077,6 +1078,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1141,6 +1143,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1696,6 +1699,7 @@
 | [0337-house-robber-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 ## Data Stream
 |  |
 | ------- |
