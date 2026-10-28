@@ -193,6 +193,7 @@
 | [0554-brick-wall](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1258,6 +1259,7 @@
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
@@ -1498,6 +1500,7 @@
 | [0495-teemo-attacking](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
 ## Queue
 |  |
 | ------- |
