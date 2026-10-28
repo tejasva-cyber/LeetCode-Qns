@@ -191,6 +191,7 @@
 | [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -276,6 +277,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -830,6 +832,7 @@
 | [0523-continuous-subarray-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
