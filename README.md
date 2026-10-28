@@ -1016,6 +1016,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1072,6 +1073,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1179,6 +1181,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
