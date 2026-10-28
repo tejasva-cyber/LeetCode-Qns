@@ -443,6 +443,7 @@
 | [0551-student-attendance-record-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -793,6 +794,7 @@
 | [0539-minimum-time-difference](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0564-find-the-closest-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
