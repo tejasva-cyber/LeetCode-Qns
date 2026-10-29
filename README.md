@@ -194,6 +194,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -281,6 +282,7 @@
 | [0554-brick-wall](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0575-distribute-candies) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
