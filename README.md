@@ -1025,6 +1025,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1084,6 +1085,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1149,6 +1151,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1519,6 +1522,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1595,6 +1599,7 @@
 | [0214-shortest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 ## Enumeration
 |  |
 | ------- |
