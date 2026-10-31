@@ -632,6 +632,7 @@
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -1037,6 +1038,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
