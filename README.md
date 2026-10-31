@@ -451,6 +451,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -591,6 +592,7 @@
 | [0552-student-attendance-record-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -1457,6 +1459,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Brute-Force Search
 |  |
