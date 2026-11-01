@@ -813,6 +813,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1339,6 +1340,7 @@
 | [0391-perfect-rectangle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0593-valid-square) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
