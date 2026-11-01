@@ -453,6 +453,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -633,6 +634,7 @@
 | [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
