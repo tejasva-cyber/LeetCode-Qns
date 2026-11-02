@@ -198,6 +198,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -818,6 +819,7 @@
 | [0587-erect-the-fence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0598-range-addition-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
