@@ -200,6 +200,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1327,6 +1328,7 @@
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 ## Monotonic Stack
 |  |
 | ------- |
