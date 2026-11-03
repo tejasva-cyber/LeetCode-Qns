@@ -463,6 +463,7 @@
 | [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1056,6 +1057,7 @@
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1117,6 +1119,7 @@
 | [0565-array-nesting](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1183,6 +1186,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
