@@ -204,6 +204,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -992,6 +993,7 @@
 | [0432-all-oone-data-structure](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
@@ -1015,6 +1017,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1572,6 +1575,7 @@
 | [0239-sliding-window-maximum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
