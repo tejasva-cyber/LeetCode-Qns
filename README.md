@@ -205,6 +205,7 @@
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0624-maximum-distance-in-arrays) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1358,6 +1359,7 @@
 | [0605-can-place-flowers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0624-maximum-distance-in-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
