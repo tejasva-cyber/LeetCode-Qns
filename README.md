@@ -203,6 +203,7 @@
 | [0605-can-place-flowers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -294,6 +295,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -347,6 +349,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -699,6 +702,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -892,6 +896,7 @@
 | [0480-sliding-window-median](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -1345,6 +1350,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
