@@ -209,6 +209,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -666,6 +667,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
+| [0636-exclusive-time-of-functions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
