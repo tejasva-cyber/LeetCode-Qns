@@ -495,6 +495,7 @@
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1407,6 +1408,7 @@
 | [0630-course-schedule-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1636,6 +1638,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 ## Monotonic Queue
 |  |
 | ------- |
