@@ -215,6 +215,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -309,6 +310,7 @@
 | [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -492,6 +494,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1518,6 +1521,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
+| [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 ## Algorithm X
 |  |
 | ------- |
