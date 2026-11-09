@@ -213,6 +213,7 @@
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -306,6 +307,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -363,6 +365,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
@@ -761,6 +764,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
+| [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
