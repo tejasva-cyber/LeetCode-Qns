@@ -483,6 +483,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
+| [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -854,6 +855,7 @@
 | [0598-range-addition-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1603,6 +1605,7 @@
 | [0537-complex-number-multiplication](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 ## Queue
 |  |
 | ------- |
@@ -1917,4 +1920,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0587-erect-the-fence) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
