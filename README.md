@@ -491,6 +491,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0609-find-duplicate-file-in-system) |
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
+| [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -548,6 +549,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -638,6 +640,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
