@@ -216,6 +216,7 @@
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -690,6 +691,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0636-exclusive-time-of-functions) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -725,6 +727,7 @@
 | [0427-construct-quad-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -1125,6 +1128,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1265,6 +1269,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1435,6 +1440,7 @@
 | [0496-next-greater-element-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Geometry
@@ -1962,4 +1968,8 @@
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
