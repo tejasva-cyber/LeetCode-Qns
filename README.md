@@ -311,6 +311,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -1120,6 +1121,7 @@
 | [0617-merge-two-binary-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1185,6 +1187,7 @@
 | [0617-merge-two-binary-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1255,6 +1258,7 @@
 | [0617-merge-two-binary-trees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
