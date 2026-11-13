@@ -505,6 +505,7 @@
 | [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0664-strange-printer) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -657,6 +658,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0664-strange-printer) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
