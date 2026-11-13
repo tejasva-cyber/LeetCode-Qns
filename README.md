@@ -219,6 +219,7 @@
 | [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0661-image-smoother](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1399,6 +1400,7 @@
 | [0529-minesweeper](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0661-image-smoother) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
