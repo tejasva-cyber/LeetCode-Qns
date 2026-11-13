@@ -892,6 +892,7 @@
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1020,6 +1021,7 @@
 | [0611-valid-triangle-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
