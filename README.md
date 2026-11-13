@@ -221,6 +221,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0661-image-smoother](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0665-non-decreasing-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0667-beautiful-arrangement-ii) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -890,6 +891,7 @@
 | [0633-sum-of-square-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0650-2-keys-keyboard) |
+| [0667-beautiful-arrangement-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0667-beautiful-arrangement-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
