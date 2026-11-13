@@ -1149,6 +1149,7 @@
 | [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1218,6 +1219,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1237,6 +1239,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1294,6 +1297,7 @@
 | [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
