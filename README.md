@@ -893,6 +893,7 @@
 | [0650-2-keys-keyboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1459,6 +1460,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
 ## Monotonic Stack
 |  |
 | ------- |
