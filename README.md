@@ -1248,6 +1248,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
+| [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1379,6 +1380,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -1393,6 +1395,7 @@
 | [0332-reconstruct-itinerary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -1416,6 +1419,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
