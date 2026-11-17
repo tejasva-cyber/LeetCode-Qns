@@ -225,6 +225,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -908,6 +909,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1583,6 +1585,7 @@
 | [0494-target-sum](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
