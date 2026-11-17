@@ -515,6 +515,7 @@
 | [0664-strange-printer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -669,6 +670,7 @@
 | [0650-2-keys-keyboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -711,6 +713,7 @@
 | [0591-tag-validator](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -720,6 +723,7 @@
 | [0022-generate-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0241-different-ways-to-add-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1482,6 +1486,7 @@
 | [0649-dota2-senate](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
