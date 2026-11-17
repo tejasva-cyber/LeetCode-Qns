@@ -324,6 +324,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -513,6 +514,7 @@
 | [0657-robot-return-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1097,6 +1099,7 @@
 | [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0641-design-circular-deque) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1596,6 +1599,7 @@
 | [0472-concatenated-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 ## Algorithm X
 |  |
 | ------- |
