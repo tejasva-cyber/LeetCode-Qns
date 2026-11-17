@@ -517,6 +517,7 @@
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -577,6 +578,7 @@
 | [0647-palindromic-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0658-find-k-closest-elements) |
+| [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1489,6 +1491,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
