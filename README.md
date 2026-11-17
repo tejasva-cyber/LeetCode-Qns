@@ -226,6 +226,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -717,6 +718,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -1716,6 +1718,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0682-baseball-game) |
 ## Queue
 |  |
 | ------- |
