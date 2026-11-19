@@ -228,6 +228,7 @@
 | [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -328,6 +329,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -1182,6 +1184,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1258,6 +1261,7 @@
 | [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1392,6 +1396,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
