@@ -822,6 +822,7 @@
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
+| [0693-binary-number-with-alternating-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
 | ------- |
