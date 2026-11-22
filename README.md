@@ -528,6 +528,7 @@
 | [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0696-count-binary-substrings) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -589,6 +590,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
