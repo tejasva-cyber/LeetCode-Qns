@@ -231,6 +231,7 @@
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -333,6 +334,7 @@
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0697-degree-of-an-array) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
