@@ -232,6 +232,7 @@
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -690,6 +691,7 @@
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -828,6 +830,7 @@
 | [0645-set-mismatch](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Math
 |  |
 | ------- |
@@ -1630,6 +1633,7 @@
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1678,6 +1682,7 @@
 | [0509-fibonacci-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -2063,6 +2068,7 @@
 | [0473-matchsticks-to-square](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Rejection Sampling
 |  |
 | ------- |
