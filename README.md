@@ -230,6 +230,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1270,6 +1271,7 @@
 | [0685-redundant-connection-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
@@ -1405,6 +1407,7 @@
 | [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -1446,6 +1449,7 @@
 | [0547-number-of-provinces](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -1478,6 +1482,7 @@
 | [0566-reshape-the-matrix](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0661-image-smoother) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
