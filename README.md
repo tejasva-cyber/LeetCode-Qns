@@ -233,6 +233,7 @@
 | [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
@@ -1926,6 +1927,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1943,6 +1945,7 @@
 | [0456-132-pattern](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
 ## Binary Lifting
 |  |
 | ------- |
