@@ -235,6 +235,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -337,6 +338,7 @@
 | [0690-employee-importance](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -1109,6 +1111,7 @@
 | [0460-lfu-cache](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
@@ -1137,6 +1140,7 @@
 | [0676-implement-magic-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1896,6 +1900,7 @@
 | [0336-palindrome-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 ## Enumeration
 |  |
 | ------- |
