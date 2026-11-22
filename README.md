@@ -1115,6 +1115,7 @@
 | [0641-design-circular-deque](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -1145,6 +1146,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
