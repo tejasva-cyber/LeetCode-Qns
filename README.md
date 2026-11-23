@@ -541,6 +541,7 @@
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -701,6 +702,7 @@
 | [0688-knight-probability-in-chessboard](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -1732,6 +1734,7 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Brute-Force Search
 |  |
