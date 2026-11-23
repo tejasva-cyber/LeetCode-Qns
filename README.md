@@ -239,6 +239,7 @@
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -704,6 +705,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -1570,6 +1572,7 @@
 | [0670-maximum-swap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Monotonic Stack
 |  |
 | ------- |
