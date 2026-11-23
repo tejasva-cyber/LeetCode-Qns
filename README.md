@@ -1161,6 +1161,7 @@
 | [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0707-design-linked-list) |
+| [0715-range-module](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0715-range-module) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1967,6 +1968,7 @@
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0715-range-module) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1985,6 +1987,7 @@
 | [0493-reverse-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0699-falling-squares](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0715-range-module) |
 ## Binary Lifting
 |  |
 | ------- |
