@@ -238,6 +238,7 @@
 | [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -977,6 +978,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -992,6 +994,7 @@
 | [0528-random-pick-with-weight](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1083,6 +1086,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
