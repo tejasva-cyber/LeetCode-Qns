@@ -563,6 +563,7 @@
 | [0721-accounts-merge](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0726-number-of-atoms) |
+| [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -727,6 +728,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
