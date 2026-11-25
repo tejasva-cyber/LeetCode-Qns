@@ -1151,6 +1151,7 @@
 | [0705-design-hashset](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0725-split-linked-list-in-parts) |
 ## Design
 |  |
 | ------- |
