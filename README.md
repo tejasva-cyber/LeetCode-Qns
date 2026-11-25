@@ -970,6 +970,7 @@
 | [0672-bulb-switcher-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
+| [0728-self-dividing-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
