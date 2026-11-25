@@ -246,6 +246,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -1014,6 +1015,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
