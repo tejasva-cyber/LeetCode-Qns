@@ -981,6 +981,7 @@
 | [0679-24-game](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0738-monotone-increasing-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1625,6 +1626,7 @@
 | [0678-valid-parenthesis-string](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0738-monotone-increasing-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
