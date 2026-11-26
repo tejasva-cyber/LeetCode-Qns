@@ -252,6 +252,7 @@
 | [0733-flood-fill](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -360,6 +361,7 @@
 | [0721-accounts-merge](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0736-parse-lisp-expression) |
+| [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -734,6 +736,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
