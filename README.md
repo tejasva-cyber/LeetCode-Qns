@@ -253,6 +253,7 @@
 | [0735-asteroid-collision](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -737,6 +738,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -1582,6 +1584,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Quicksort
 |  |
