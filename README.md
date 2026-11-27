@@ -257,6 +257,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -433,6 +434,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0726-number-of-atoms) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
