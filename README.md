@@ -1003,6 +1003,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1153,6 +1154,7 @@
 | [0731-my-calendar-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0754-reach-a-number) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
