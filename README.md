@@ -256,6 +256,7 @@
 | [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -743,6 +744,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Stack
