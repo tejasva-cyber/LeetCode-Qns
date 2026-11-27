@@ -254,6 +254,7 @@
 | [0739-daily-temperatures](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -1136,6 +1137,7 @@
 | [0729-my-calendar-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0732-my-calendar-iii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
