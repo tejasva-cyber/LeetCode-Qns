@@ -260,6 +260,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -371,6 +372,7 @@
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -583,6 +585,7 @@
 | [0736-parse-lisp-expression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1524,6 +1527,7 @@
 | [0733-flood-fill](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
 ## Graph Theory
@@ -1849,6 +1853,7 @@
 | [0126-word-ladder-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0752-open-the-lock) |
 ## Merge Sort
 |  |
 | ------- |
