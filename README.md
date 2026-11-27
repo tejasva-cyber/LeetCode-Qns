@@ -255,6 +255,7 @@
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0853-car-fleet](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0994-rotting-oranges) |
@@ -364,6 +365,7 @@
 | [0726-number-of-atoms](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0736-parse-lisp-expression) |
 | [0740-delete-and-earn](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0740-delete-and-earn) |
+| [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -573,6 +575,7 @@
 | [0726-number-of-atoms](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0736-parse-lisp-expression) |
+| [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -1215,6 +1218,7 @@
 | [0729-my-calendar-i](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0732-my-calendar-iii) |
+| [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 | [0981-time-based-key-value-store](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0981-time-based-key-value-store) |
 ## Tree
 |  |
@@ -1758,6 +1762,7 @@
 | [0677-map-sum-pairs](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/tejasva-cyber/LeetCode-Qns/tree/master/0745-prefix-and-suffix-search) |
 ## Algorithm X
 |  |
 | ------- |
